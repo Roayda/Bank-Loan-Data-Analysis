@@ -24,6 +24,19 @@ Design and build a dynamic Power BI report that delivers a comprehensive view of
 
 ---
 
+## 📸 Dashboard Preview
+
+### Summary
+![Summary Dashboard](Media/p18.png)
+
+### Overview
+![Overview Dashboard](Media/p19.png)
+
+### Details
+![Details Dashboard](Media/p20.png)
+
+---
+
 ## 📊 Dashboard Pages
 
 ### 1 — Summary
@@ -83,18 +96,7 @@ When comparing charged-off loans against fully paid ones, a clear pattern emerge
 
 This reflects **Risk-Based Pricing** in practice — the bank correctly identifies higher-risk borrowers and prices accordingly. However, the higher financial burden that comes with elevated rates appears to contribute to the very defaults it was meant to compensate for. It's a structural tension worth monitoring at the portfolio level.
 
----
 
-## 📸 Dashboard Preview
-
-### Summary
-![Summary Dashboard](Media/p18.png)
-
-### Overview
-![Overview Dashboard](Media/p19.png)
-
-### Details
-![Details Dashboard](Media/p20.png)
 
 ---
 
