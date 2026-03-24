@@ -1,0 +1,62 @@
+{
+  "name": "Dark Pro Metallic Glow",
+  "background": "#0A0A0A",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#D4AF37",
+  "dataColors": [
+    "#D4AF37",
+    "#C0C0C0",
+    "#FFFFFF",
+    "#BDBDBD",
+    "#8C8C8C",
+    "#6E6E6E",
+    "#2E2E2E"
+  ],
+  "visualStyles": {
+    "*": {
+      "*": {
+        "color": [{"solid": {"color": "#FFFFFF"}}],
+        "background": [{"solid": {"color": "#1F1F1F"}}],
+        "transparency": [{"value": 0}],
+        "glow": [{"color": {"solid": {"color": "#C0C0C0"}}, "intensity": 0.25}]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [{"color": {"solid": {"color": "#BDBDBD"}}}],
+        "labels": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "background": [{"solid": {"color": "#2E2E2E"}}],
+        "glow": [{"color": {"solid": {"color": "#D4AF37"}}, "intensity": 0.3}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "background": [{"solid": {"color": "#1F1F1F"}}],
+        "glow": [{"color": {"solid": {"color": "#C0C0C0"}}, "intensity": 0.15}]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [{"gridVertical": true, "gridHorizontal": true}],
+        "values": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "columnHeaders": [
+          {
+            "color": {"solid": {"color": "#D9D9D9"}},
+            "background": {"solid": {"color": "#2E2E2E"}},
+            "glow": [{"color": {"solid": {"color": "#C0C0C0"}}, "intensity": 0.15}]
+          }
+        ]
+      }
+    },
+    "kpi": {
+      "*": {
+        "labels": [{"color": {"solid": {"color": "#FFFFFF"}}}],
+        "target": [{"color": {"solid": {"color": "#D4AF37"}}}],
+        "status": [{"color": {"solid": {"color": "#D4AF37"}}}],
+        "background": [{"solid": {"color": "#1F1F1F"}}],
+        "glow": [{"color": {"solid": {"color": "#D4AF37"}}, "intensity": 0.35}]
+      }
+    }
+  }
+}
